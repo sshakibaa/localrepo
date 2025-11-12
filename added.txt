@@ -1,0 +1,20 @@
+we're going to try to store as a solution to this game.
+So what better way to store these actions than in a list?
+Now let's go ahead and go to this program here called sokoban.py.
+And the goal of this program is to take as input
+an action the user might take in the game, in this case,
+moving up, down, left, or right, and storing
+that action inside a history of actions.
+So, for instance, I can go down to my terminal here
+and I can run python of sokoban.py.
+And I'll say, let's first move up, just like this.
+And now I have up in my list.
+I could say, let's move down.
+And we'll say down in our list.
+I could move right and left.
+I'm just adding things to my list, the history
+of actions I've taken as I play this game of moving boxes
+to the right locations.
+So we seem here to have a way of keeping track of our history in this game.
+But what else could we do?
+Well, in the game you can actually undo some action.
